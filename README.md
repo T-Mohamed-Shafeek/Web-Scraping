@@ -1,4 +1,4 @@
-**Comprehensive Overview of Web Scraping Project using Python BeautifulSoup Library**
+**Overview of Web Scraping Project using Python BeautifulSoup Library** :
 
 **Project Overview:**
 The web scraping project utilizes Python's BeautifulSoup library to extract data from the Wikipedia website. Specifically, it scrapes a table containing a list of the largest companies in the USA. The project's primary objective is to retrieve and organize the data for further analysis or display.
